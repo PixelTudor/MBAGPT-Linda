@@ -1,6 +1,11 @@
-# MBAGPT: Chatting with Multiple Data Sources
+# UROGPT: Chatting with Multiple Data Sources
 
-MBAGPT is a chat application that leverages the power of GPT-3.5-turbo to provide conversational responses with access to multiple data sources. It allows users to ask questions and receive answers from different knowledge bases (vectorDBs), such as Alex Hormozi, Warren Buffett and Richard Branson as well as answer general queries with the ChatGPT API as a fallback.
+UROGPT is a chat application that leverages the power of GPT-3.5-turbo to provide conversational responses with access to multiple medical data sources. It's specifically designed to assist medical professionals and students in the field of urology, with a particular focus on prostate cancer.
+
+It allows users to ask questions and receive answers from a diverse range of authoritative knowledge bases (vectorDBs), such as "Campbell-Walsh Urology", guidelines provided by the National Comprehensive Cancer Network (NCCN) and American Urological Association (AUA), as well as various manuscripts on prostate cancer. 
+
+In addition, it's capable of answering more general medical queries with the help of the ChatGPT API as a fallback. This makes it a valuable resource for continuous medical education (CME), preparation for the American Board of Urology certification exam, and research into prostate cancer.
+
 
 ## Features
 
@@ -17,7 +22,7 @@ MBAGPT is a chat application that leverages the power of GPT-3.5-turbo to provid
 1. Clone the repository:
 
 ```
-git clone https://github.com/wombyz/MBAGPT.git
+git clone https://github.com/wombyz/UROGPT.git
 ```
 
 2. Install the required dependencies:
